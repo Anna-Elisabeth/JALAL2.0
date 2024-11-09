@@ -1,7 +1,9 @@
+import './home.css';
+
 function Home(){
     return(
-<div>
-<h1>THIS IS JALAS'S HOME PAGE</h1>
+<div className="background">
+<h1 className="welcomebanner">THIS IS JALALS'S HOME PAGE</h1>
 
 </div>
 
